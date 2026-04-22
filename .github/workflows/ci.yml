@@ -2,8 +2,8 @@ name: App CI
 
 on:
   push:
-    branches-ignore:
-      - main
+    branches:
+      - *
   pull_request:
     branches:
       - main
