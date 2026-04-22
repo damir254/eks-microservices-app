@@ -147,6 +147,7 @@ function App() {
             >
               Simple operational dashboard for validating application health,
               backend connectivity, and database access through the full stack.
+	      This is new addition by Damir just to test functionality of argo image updater.
             </p>
           </div>
 
